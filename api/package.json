@@ -1,0 +1,8 @@
+{
+  "name": "Api_Cafe",
+  "version": "1.0.1",
+  "description": "Refactoring Gama acatemic's final challenge API.",
+  "main": "index.js",
+  "author": "Jeovane dos Santos Santos",
+  "license": "MIT"
+}
