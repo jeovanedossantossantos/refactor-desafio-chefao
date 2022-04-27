@@ -1,4 +1,4 @@
-# Refactor Desafio Chefão - Gama-XP-40
+# Refactoring Boss Challenge - Gamma-XP-40
 
 <p>The original project was made in MVC (Model-View-Controller) format, but with the advancement of my studies, 
   I decided to refactor the application to TDD (Test-driven development) format.</p>
